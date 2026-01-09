@@ -16,7 +16,7 @@ const Home = () => {
 
       {/* Hero content */}
       <div className="hero-content">
-        <div className="hero-label"> Available for Freelance</div>
+        <div className="hero-label">24/7 Available for Freelance</div>
         <h1>Sohail Ahmed</h1>
         <h2>
           Frontend Software Engineer

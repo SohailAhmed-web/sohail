@@ -16,7 +16,7 @@ const About = () => {
         <div className="about-text">
           <h3>Hello! I'm Sohail Ahmed</h3>
           <p>
-            Software engineer with 5+ years of experience building scalable web
+            Software engineer with 2+ years of experience building scalable web
             applications using modern technologies.
           </p>
         </div>
